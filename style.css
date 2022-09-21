@@ -1,0 +1,127 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #ffe6f7;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #ffabe1;
+  font-weight: normal;
+}
+
+.programmer {
+  color: #ffe6f7;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #ffabe1;
+}
+
+p {
+  font-family: "Dangrek", cursive;
+  font-size: 1.2rem;
+}
+
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c689c6;
+}
+
+.myself {
+  border-radius: 50%;
+  width: 10%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #937dc2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+  width: 10%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 10%;
+  left: 500px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.hobbies1 {
+  float: left;
+  border-radius: 50%;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.hobbies2 {
+  float: right;
+  border-radius: 50%;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.contact-me {
+  padding: 3%;
+  margin-top: 10px;
+  padding-top: 0;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #6f38c5;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  margin: 30px;
+  padding-bottom: 0px;
+  color: #eaf6f6;
+}
+
+.btn {
+  background: #d5a6bd;
+  border-radius: 1000px;
+  padding: 19px 42px;
+  color: #f3f3f3;
+  display: inline-block;
+  font: normal bold 19px/1 "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #ffd1d1;
+}
